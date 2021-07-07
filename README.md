@@ -1,2 +1,2 @@
-# swaping
-class10
+# swapping-code
+class10th snippet
